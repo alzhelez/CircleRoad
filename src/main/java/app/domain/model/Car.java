@@ -8,7 +8,7 @@ import org.springframework.lang.Nullable;
 import javax.persistence.*;
 
 @Data
-@Entity(name ="automobiles")
+@Entity(name ="cars")
 @NoArgsConstructor
 public class Car {
     @Id
